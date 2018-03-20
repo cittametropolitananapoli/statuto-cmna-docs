@@ -1,0 +1,11 @@
+Art. 32 - Il piano strategico
+-----------------------------
+
+1. Il Consiglio metropolitano approva, acquisito il parere della Conferenza metropolitana e del Forum metropolitano, il piano strategico metropolitano come atto di indirizzo per l’ente e per l'esercizio delle funzioni dei Comuni, delle Unioni di Comuni e delle zone omogenee, anche in relazione all’esercizio delle funzioni delegate o conferite dalla Regione. 
+2. Nel piano strategico si fissano le azioni tese a definire l’orizzonte identitario e di crescita dell’area metropolitana, al fine di migliorare le condizioni di vita, di salute, di relazioni e di benessere dei cittadini. 
+3. Per il perseguimento di tali obiettivi il Piano strategico garantisce e promuove, attraverso l’individuazione e la messa a sistema delle grandi opzioni di sviluppo, la salvaguardia del patrimonio naturalistico, paesaggistico e artistico, il risanamento dell’ambiente e del tessuto urbano, la valorizzazione delle eccellenze territoriali, l’ottimizzazione delle reti di comunicazione e dell’offerta dei servizi pubblici, il rafforzamento dei livelli di coesione e di integrazione sociale, il potenziamento della capacità attrattiva, di accessibilità e di relazioni dell’area metropolitana. 
+4. Il Piano strategico comprende le azioni della Città metropolitana e del complesso delle amministrazioni pubbliche. Determina gli obiettivi degli organi della Città metropolitana. 
+5. Il confronto e la collaborazione tra pubblico e privato è essenziale per le decisioni e per il finanziamento delle attività. 
+6. Il bilancio di previsione della Città metropolitana è correlato nella sua impostazione al Piano strategico. Il conto consuntivo reca in allegato una relazione sui risultati dell’azione svolta nel corso dell’esercizio. La relazione costituisce la base per il successivo aggiornamento annuale del piano strategico. 
+7. Per assicurare la partecipazione dei Comuni e delle Unioni di Comuni alla formazione e all’aggiornamento del Piano strategico possono essere fissate conferenze di programmazione. 
+8. La Città metropolitana può coordinare la propria pianificazione con Comuni e Province contermini tramite processi di copianificazione su materie di interesse comune, finalizzati alla realizzazione di accordi di pianificazione.

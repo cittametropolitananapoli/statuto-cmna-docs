@@ -1,0 +1,4 @@
+Art. 39 - Tutela e valorizzazione dell'ambiente
+-----------------------------------------------
+ 
+1. La Città metropolitana svolge un ruolo gestionale e decisionale sui controlli e le autorizzazioni ambientali su caccia e pesca, protezione della flora e della fauna e della loro biodiversità, gestione dei parchi e delle aree protette, organizzazione, gestione e promozione di un corretto ciclo integrato dei rifiuti, promozione e diffusione di fonti di energie rinnovabili e fotovoltaico, valorizzazione e ampliamento di aree a verde pubblico, bonifica di suoli e corsi d'acqua contaminati (rifiuti, amianto, sostanze chimiche, sostanze cancerogene, ecc.), contrasto al dissesto idrogeologico, edificazione controllata ed ecosostenibile, controllo del territorio con particolare riferimento alla salvaguardia di risorse basilari come Acqua, Suolo, Sottosuolo, Atmosfera e Biodiversità.

@@ -1,0 +1,11 @@
+projects:
+  - title: Statuto
+    short-name: 
+    description: Statuto
+    website: http://www.cittametropolitana.na.it/-/statuto
+    tags:
+      - digital
+      - amazing project
+    documents:
+      - title: statuto
+        repository: statuto-docs
