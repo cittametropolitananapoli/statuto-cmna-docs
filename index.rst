@@ -3,16 +3,17 @@
 STATUTO DELLA CITTÀ METROPOLITANA DI NAPOLI
 ===========================================
 
-**Adottato con deliberazione della Conferenza Metropolitana n.2 dell’11 giugno 2015
-Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio 2015** 
+**Adottato con deliberazione della Conferenza Metropolitana n.2 dell’11 giugno 2015**
+
+**Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio 2015** 
 
 
 .. toctree::
 
   _docs/preambolo.rst	
 	
- CAPO I - PRINCIPI
- =================
+CAPO I - PRINCIPI
+=================
 
   _docs/art1.rst
   _docs/art2.rst
@@ -27,8 +28,8 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
   _docs/art11.rst
   _docs/art12.rst
 
- CAPO II - PARTECIPAZIONE
- ========================
+CAPO II - PARTECIPAZIONE
+========================
 
 
   _docs/art13.rst
@@ -36,8 +37,8 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
   _docs/art15.rst
   _docs/art16.rst
 
- CAPO III - ORGANI DELLA CITTA’ METROPOLITANA
- ============================================
+CAPO III - ORGANI DELLA CITTA’ METROPOLITANA
+============================================
 
   _docs/art17.rst
   _docs/art18.rst
@@ -54,8 +55,8 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
   _docs/art29.rst
   _docs/art30.rst
 
- CAPO IV - FUNZIONI
- ==================
+CAPO IV - FUNZIONI
+==================
 
   _docs/art31.rst
   _docs/art32.rst
@@ -78,8 +79,8 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
   
 
 
- CAPO V - ORGANIZZAZIONE AMMINISTRATIVA
- ======================================
+CAPO V - ORGANIZZAZIONE AMMINISTRATIVA
+======================================
 
   _docs/art48.rst
   _docs/art49.rst
@@ -91,8 +92,7 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
   _docs/art55.rst
 
          
- CAPO VI 
- =======
+CAPO VI 
+=======
 
   _docs/art56.rst
-  
