@@ -1,4 +1,4 @@
-.. image:: images/cmna_logo.jpg    .. image:: images/urp_logo.jpg    
+.. image:: images/cmna_logo.jpg
 
 STATUTO DELLA CITTÀ METROPOLITANA DI NAPOLI
 ===========================================
