@@ -14,12 +14,14 @@ STATUTO DELLA CITTÀ METROPOLITANA DI NAPOLI
 CAPO I - PRINCIPI
 -----------------
 
-   _docs/art1.rst
-   _docs/art2.rst
-   _docs/art3.rst
-   _docs/art4.rst
-   _docs/art5.rst
-   _docs/art6.rst
+.. toctree::
+
+ _docs/art1.rst
+ _docs/art2.rst
+ _docs/art3.rst
+ _docs/art4.rst
+ _docs/art5.rst
+ _docs/art6.rst
  _docs/art7.rst
  _docs/art8.rst
  _docs/art9.rst
@@ -28,7 +30,9 @@ CAPO I - PRINCIPI
  _docs/art12.rst
 
 CAPO II - PARTECIPAZIONE
-========================
+------------------------
+
+.. toctree::
 
 
   _docs/art13.rst
@@ -37,7 +41,10 @@ CAPO II - PARTECIPAZIONE
   _docs/art16.rst
 
 CAPO III - ORGANI DELLA CITTA’ METROPOLITANA
-============================================
+--------------------------------------------
+
+.. toctree::
+
 
   _docs/art17.rst
   _docs/art18.rst
@@ -54,8 +61,11 @@ CAPO III - ORGANI DELLA CITTA’ METROPOLITANA
   _docs/art29.rst
   _docs/art30.rst
 
+
 CAPO IV - FUNZIONI
-==================
+------------------
+
+.. toctree::
 
   _docs/art31.rst
   _docs/art32.rst
@@ -79,7 +89,11 @@ CAPO IV - FUNZIONI
 
 
 CAPO V - ORGANIZZAZIONE AMMINISTRATIVA
-======================================
+--------------------------------------
+
+
+.. toctree::
+
 
   _docs/art48.rst
   _docs/art49.rst
@@ -92,6 +106,8 @@ CAPO V - ORGANIZZAZIONE AMMINISTRATIVA
 
          
 CAPO VI 
-=======
+-------
+
+.. toctree::
 
   _docs/art56.rst
