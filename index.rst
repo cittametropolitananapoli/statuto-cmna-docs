@@ -1,8 +1,8 @@
-##########################################
+###########################################
 STATUTO DELLA CITTÀ METROPOLITANA DI NAPOLI
 ###########################################
 
-|Stemma Città Metropolitana di Napoli| *Città Metropolitana di Napoli*
+|logo_cmna| *Città Metropolitana di Napoli*
 
 .. highlights::  
 
@@ -10,8 +10,8 @@ Statuto adottato con deliberazione della Conferenza Metropolitana n.2 dell’11 
 Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio 2015 
 
 :Proprietà: Città Metropolitana di Napoli
-:Publisher: Ufficio Relazioni con il Pubblico-pp
-:Licenza: CC-0 |image1|
+:Publisher: Ufficio Relazioni con il Pubblico
+:Licenza: CC-0 |cc-zero|
  
 .. toctree::
   :maxdepth: 3
@@ -124,9 +124,8 @@ CAPO VI
 
    glossario.rst
 
-.. |Stemma Città Metropolitana di Napoli| image:: ./media/logo_cmna.png
+.. |logo_cmna| image:: assets/images/logo_cmna.png
    :width: 0.6in
    :height: 0.79097in
-.. |image1| image:: ./media/cc-zero.png
-   :width: 0.91667in
-   :height: 0.32292in
+.. |cc-zero| image:: assets/images/cc-zero.png
+   
