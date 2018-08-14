@@ -1,14 +1,23 @@
-.. image:: images/cmna_logo.jpg
-
+###########################################
 STATUTO DELLA CITTÀ METROPOLITANA DI NAPOLI
-===========================================
+###########################################
 
-*Adottato con deliberazione della Conferenza Metropolitana n.2 dell’11 giugno 2015*
-*Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio 2015* 
+|logo_cmna| *Città Metropolitana di Napoli*
 
+.. highlights::  
 
+Statuto adottato con deliberazione della Conferenza Metropolitana n.2 dell’11 giugno 2015 
+Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio 2015 
+
+:Proprietà: Città Metropolitana di Napoli
+:Publisher: Ufficio Relazioni con il Pubblico
+:Licenza: CC-0 |cc-zero|
+ 
 .. toctree::
-
+  :maxdepth: 3
+  :numbered:
+  :hidden:
+  
   _docs/preambolo.rst	
 	
 CAPO I - PRINCIPI
@@ -34,17 +43,15 @@ CAPO II - PARTECIPAZIONE
 
 .. toctree::
 
-
   _docs/art13.rst
   _docs/art14.rst
   _docs/art15.rst
   _docs/art16.rst
 
-CAPO III - ORGANI DELLA CITTA’ METROPOLITANA
+CAPO III - ORGANI DELLA CITTÀ METROPOLITANA
 --------------------------------------------
 
 .. toctree::
-
 
   _docs/art17.rst
   _docs/art18.rst
@@ -94,7 +101,6 @@ CAPO V - ORGANIZZAZIONE AMMINISTRATIVA
 
 .. toctree::
 
-
   _docs/art48.rst
   _docs/art49.rst
   _docs/art50.rst	
@@ -111,3 +117,15 @@ CAPO VI
 .. toctree::
 
   _docs/art56.rst
+
+.. toctree::
+   :name: glossary_toc
+   :hidden:
+
+   glossario.rst
+
+.. |logo_cmna| image:: assets/images/logo_cmna.png
+   :width: 0.6in
+   :height: 0.79097in
+.. |cc-zero| image:: assets/images/cc-zero.png
+   
