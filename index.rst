@@ -24,7 +24,10 @@ CAPO I - PRINCIPI
 -----------------
 
 .. toctree::
-
+  :maxdepth: 3
+  :numbered:
+  :hidden:
+ 
  _docs/art1.rst
  _docs/art2.rst
  _docs/art3.rst
@@ -42,6 +45,9 @@ CAPO II - PARTECIPAZIONE
 ------------------------
 
 .. toctree::
+  :maxdepth: 3
+  :numbered:
+  :hidden:
 
   _docs/art13.rst
   _docs/art14.rst
@@ -52,7 +58,10 @@ CAPO III - ORGANI DELLA CITTÀ METROPOLITANA
 --------------------------------------------
 
 .. toctree::
-
+  :maxdepth: 3
+  :numbered:
+  :hidden:
+  
   _docs/art17.rst
   _docs/art18.rst
   _docs/art19.rst
@@ -73,6 +82,9 @@ CAPO IV - FUNZIONI
 ------------------
 
 .. toctree::
+  :maxdepth: 3
+  :numbered:
+  :hidden:
 
   _docs/art31.rst
   _docs/art32.rst
@@ -98,8 +110,10 @@ CAPO IV - FUNZIONI
 CAPO V - ORGANIZZAZIONE AMMINISTRATIVA
 --------------------------------------
 
-
 .. toctree::
+  :maxdepth: 3
+  :numbered:
+  :hidden:
 
   _docs/art48.rst
   _docs/art49.rst
@@ -115,6 +129,9 @@ CAPO VI
 -------
 
 .. toctree::
+  :maxdepth: 3
+  :numbered:
+  :hidden:
 
   _docs/art56.rst
 
