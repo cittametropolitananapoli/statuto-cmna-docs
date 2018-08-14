@@ -1,8 +1,6 @@
+--- 
 document:
-  name: Statuto Città Metropolitana di Napoli
-  description: |
-    Statuto della Città Metropolitana di Napoli.  
-    tags:
-    - Trasparenza	
-    - Statuto
-    - CMNA
+  name: "Statuto Città Metropolitana di Napoli"
+  description: "Statuto della Città Metropolitana di Napoli."
+  tags: 
+- "Statuto"
