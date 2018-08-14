@@ -1,6 +1,8 @@
-###########################################
+##########################################
 STATUTO DELLA CITTÀ METROPOLITANA DI NAPOLI
 ###########################################
+
+|Stemma Città Metropolitana di Napoli| *Città Metropolitana di Napoli*
 
 .. highlights::  
 
@@ -51,7 +53,6 @@ CAPO III - ORGANI DELLA CITTÀ METROPOLITANA
 
 .. toctree::
 
-
   _docs/art17.rst
   _docs/art18.rst
   _docs/art19.rst
@@ -100,7 +101,6 @@ CAPO V - ORGANIZZAZIONE AMMINISTRATIVA
 
 .. toctree::
 
-
   _docs/art48.rst
   _docs/art49.rst
   _docs/art50.rst	
@@ -117,3 +117,16 @@ CAPO VI
 .. toctree::
 
   _docs/art56.rst
+
+.. toctree::
+   :name: glossary_toc
+   :hidden:
+
+   glossario.rst
+
+.. |Stemma Città Metropolitana di Napoli| image:: ./media/logo_cmna.png
+   :width: 0.6in
+   :height: 0.79097in
+.. |image1| image:: ./media/cc-zero.png
+   :width: 0.91667in
+   :height: 0.32292in
