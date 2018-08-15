@@ -18,21 +18,15 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
   :numbered:
   :hidden:
   
-   docs/preambolo.rst	
-   docs/capoI.rst
-   docs/capoII.rst
-   docs/capoIII.rst 
-   docs/capoIV.rst
-   docs/capoV.rst
-   docs/capoVI.rst 
+  docs/preambolo.rst	
+  docs/capoI.rst
+  docs/capoII.rst
+  docs/capoIII.rst 
+  docs/capoIV.rst
+  docs/capoV.rst
+  docs/capoVI.rst 
    
    
-.. toctree::
-   :name: glossary_toc
-   :hidden:
-
-   glossario.rst
-
 .. |logo_cmna| image:: assets/images/logo_cmna.png
    :width: 0.6in
    :height: 0.79097in
