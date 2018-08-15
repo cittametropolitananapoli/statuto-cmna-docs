@@ -26,12 +26,6 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
    docs/capoV.rst
    docs/capoVI.rst 
    
-   
-.. toctree::
-   :name: glossary_toc
-   :hidden:
-
-   glossario.rst
 
 .. |logo_cmna| image:: assets/images/logo_cmna.png
    :width: 0.6in
