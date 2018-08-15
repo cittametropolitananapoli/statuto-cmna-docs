@@ -14,8 +14,7 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
 :Licenza: CC-0 |cc-zero|
  
 .. toctree::
-  :numbered:
-  
+    
    index/preambolo.rst	
    index/capoI.rst
    index/capoII.rst
