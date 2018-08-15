@@ -1,6 +1,10 @@
 Glossario
 =========
 
+S
+   Statuto
+	Statuto
+
 U
 -
 
