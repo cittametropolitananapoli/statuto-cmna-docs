@@ -1,4 +1,0 @@
-Art. 45 - Centrale unica di committenza
----------------------------------------
- 
-1. La Città metropolitana, previa convenzione, può curare, nell’interesse dei Comuni e delle Unioni di Comuni, le funzioni di “Centrale unica di committenza” ai sensi della normativa vigente con costi contenuti nei limiti dell’effettivo rimborso spese delle sole risorse umane impiegate e assicura ai Comuni e alle Unioni di Comuni assistenza tecnico-amministrativa in materia di appalti di lavori e acquisti di beni, servizi e forniture, anche attraverso la formazione del personale, l’elaborazione e la gestione di banche dati e di servizi su piattaforma elettronica.
