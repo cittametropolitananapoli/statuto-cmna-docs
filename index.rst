@@ -14,7 +14,7 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
 :Licenza: CC-0 |cc-zero|
  
 .. toctree::
-  :maxdepth: 3
+  :maxdepth: 2
   :numbered:
   :hidden:
   
