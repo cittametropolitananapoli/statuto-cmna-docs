@@ -18,7 +18,7 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
   :numbered:
   :hidden:
   
-   index/preambolo.rst	
+   index/PREAMBOLO.rst	
    index/capoI.rst
    index/capoII.rst
    index/capoIII.rst 
