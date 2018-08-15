@@ -31,4 +31,3 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
    :width: 0.6in
    :height: 0.79097in
 .. |cc-zero| image:: assets/images/cc-zero.png
-   
