@@ -16,7 +16,6 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
 .. toctree::
   :maxdepth: 3
   :numbered:
-  :hidden:
   
   index/preambolo.rst	
   index/capoI.rst
