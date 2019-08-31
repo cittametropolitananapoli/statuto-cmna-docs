@@ -1,6 +1,5 @@
-###########################################
 STATUTO DELLA CITTÀ METROPOLITANA DI NAPOLI
-###########################################
+===========================================
 
 |logo_cmna| *Città Metropolitana di Napoli*
 
@@ -11,7 +10,7 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
 
 :Proprietà: Città Metropolitana di Napoli
 :Publisher: Ufficio Relazioni con il Pubblico
-:Licenza: CC-0 |cc-zero|
+:Licenza: |cc-zero|
  
 .. toctree::
   :maxdepth: 3
