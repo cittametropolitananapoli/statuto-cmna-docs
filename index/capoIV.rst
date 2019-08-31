@@ -1,8 +1,8 @@
 CAPO IV - FUNZIONI
-==================
+------------------
 
 Art. 31 - Pianificazione strategica
------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Con la pianificazione strategica generale, la Città metropolitana individua la strategia complessiva di lungo periodo per lo sviluppo economico sociale della comunità metropolitana.
 
@@ -19,7 +19,7 @@ Art. 31 - Pianificazione strategica
 7. Al Piano strategico si collegano il Bilancio di previsione ed il Piano territoriale.
 
 Art. 32 - Il piano strategico
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il Consiglio metropolitano approva, acquisito il parere della Conferenza metropolitana e del Forum metropolitano, il piano strategico metropolitano come atto di indirizzo per l’ente e per l'esercizio delle funzioni dei Comuni, delle Unioni di Comuni e delle zone omogenee, anche in relazione all’esercizio delle funzioni delegate o conferite dalla Regione.
 
@@ -38,22 +38,21 @@ Art. 32 - Il piano strategico
 8. La Città metropolitana può coordinare la propria pianificazione con Comuni e Province contermini tramite processi di copianificazione su materie di interesse comune, finalizzati alla realizzazione di accordi di pianificazione.
 
 Art. 33 - Sviluppo economico
-----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana, per conseguire uno sviluppo economico efficace, sostenibile e durevole basato sulle risorse locali, sull’innovazione e sulla cooperazione, nonché sulle condizioni di libero accesso al mercato, favorisce una crescita multipolare, corrispondente alle specificità di ciascuna zona omogenea, riduce gli squilibri di produttività e di benessere, al fine di ottenere una integrazione tra tali aree per le finalità comuni.
  
 2. Le linee di sviluppo da privilegiare sono:
 
- a) la competitività delle imprese favorendo, in un quadro rafforzato di libera concorrenza, la loro crescita, la cooperazione e le relazioni di filiera; 
-
- b) il sostegno agli Enti di ricerca e alle Università, per incrementare lo sviluppo delle conoscenze nonché il loro trasferimento nelle attività di produzione;
- c) misure per lo sviluppo del turismo e per la tutela dei beni culturali e ambientali, con particolare riferimento ai beni Unesco, le Zone di protezione speciale ed i Siti di interesse comunitario;
- d) interventi per ottenere un'agricoltura metropolitana quale presidio ambientale per la fornitura di servizi eco sistemici ai cittadini e risorsa economica per le colture di pregio da tutelare e diffondere;
- e) il sostegno all’economia del territorio e del mare nelle sue molteplici espressioni puntando sulla cooperazione delle imprese e sugli scambi e sinergie tra i diversi settori di attività;
- f) l’efficienza e la qualità dei servizi pubblici da garantire alla persona e alla collettività promuovendo la pluralità dell’offerta.
+   a) la competitività delle imprese favorendo, in un quadro rafforzato di libera concorrenza, la loro crescita, la cooperazione e le relazioni di filiera; 
+   b) il sostegno agli Enti di ricerca e alle Università, per incrementare lo sviluppo delle conoscenze nonché il loro trasferimento nelle attività di produzione;
+   c) misure per lo sviluppo del turismo e per la tutela dei beni culturali e ambientali, con particolare riferimento ai beni Unesco, le Zone di protezione speciale ed i Siti di interesse comunitario;
+   d) interventi per ottenere un'agricoltura metropolitana quale presidio ambientale per la fornitura di servizi eco sistemici ai cittadini e risorsa economica per le colture di pregio da tutelare e diffondere;
+   e) il sostegno all’economia del territorio e del mare nelle sue molteplici espressioni puntando sulla cooperazione delle imprese e sugli scambi e sinergie tra i diversi settori di attività;
+   f) l’efficienza e la qualità dei servizi pubblici da garantire alla persona e alla collettività promuovendo la pluralità dell’offerta.
  
  Art. 34 - Efficacia del Piano strategico
-----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il Piano strategico costituisce il riferimento generale per l’azione della Città metropolitana in coerenza con la relazione programmatica del Sindaco metropolitano. Gli altri atti di pianificazione e gli atti di carattere generale della Città metropolitana mettono in evidenza con specifica motivazione le loro relazioni col Piano strategico.
  
@@ -62,7 +61,7 @@ Art. 33 - Sviluppo economico
 3. Il Piano strategico rappresenta il riferimento per il finanziamento delle azioni dei Comuni da parte della Città metropolitana.
 
 Art. 35 - Pianificazione territoriale
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana cura la pianificazione di coordinamento e la pianificazione territoriale generale del proprio territorio in relazione al Piano strategico e secondo la disciplina della legislazione regionale sul governo del territorio, mediante un unico atto di pianificazione denominato Piano territoriale metropolitano, che comprende una componente strutturale ed una componente operativa, con misure di perequazione territoriale.
 
@@ -115,7 +114,7 @@ Art. 35 - Pianificazione territoriale
 5. La Città metropolitana promuove la conoscenza aggiornata dei fenomeni territoriali attraverso la partecipazione al Sistema Informativo Territoriale integrato (SIT), secondo la disciplina regionale in materia.
 
 Art. 36 - Rete della mobilità metropolitana
--------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il Piano della rete della mobilità metropolitana è integrato nel Piano territoriale metropolitano e comprende le previsioni relative alle infrastrutture stradali, ferroviarie, marittime ed aeroportuali, di concerto con gli enti competenti, assicurando la compatibilità e l’integrazione con la trasformazione dell’insediamento e la distribuzione delle funzioni. Il Piano territoriale assicura, per ciascuna area omogenea, l’integrazione delle reti e dei servizi di trasporto pubblico metropolitano con quello locale.
 
@@ -124,7 +123,7 @@ Art. 36 - Rete della mobilità metropolitana
 3. Per l’esercizio unitario delle funzioni in materia di trasporto pubblico, la Città metropolitana opera attraverso apposita agenzia per il trasporto pubblico metropolitano. Ai fini dell’integrazione del servizio, l’agenzia si coordina con le altre agenzie regionali per il trasporto pubblico e con la Regione Campania, in particolare ai fini dell’integrazione con il servizio ferroviario regionale.
 
 Art. 37 - Servizi pubblici di ambito metropolitano
---------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana cura la pianificazione, la programmazione e l’organizzazione dei servizi pubblici di interesse metropolitano a rete di rilevanza economica di ambito metropolitano, compreso quello del ciclo integrato dei rifiuti.
  
@@ -133,29 +132,29 @@ Art. 37 - Servizi pubblici di ambito metropolitano
 3. La Città metropolitana si impegna a realizzare il governo dell’acqua, risorsa pubblica, su scala metropolitana e provvede, nell’ambito delle proprie competenze, al reinvestimento degli utili del servizio idrico integrato nel servizio stesso; assicura la proprietà pubblica delle reti; garantisce qualità ed efficienza del servizio, uso razionale ed accessibilità per tutti, secondo principi di equità e di tutela delle fasce deboli.
 
 Art. 38 - Sicurezza integrata e protezione civile
--------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Al Piano territoriale metropolitano sono demandati gli studi e i provvedimenti per giungere ad un assetto del territorio meglio adeguato alla prevenzione dei rischi naturali e specialmente di quello vulcanico, idrico ed idrogeologico. Nello stesso documento si dovrà prevedere una strategia di adattamento e mitigazione dei rischi derivanti dal riscaldamento globale e coordinare i piani di protezione civile dei comuni.
 
 2. La Città metropolitana garantisce, attraverso il Corpo di Polizia della Città metropolitana, le politiche di sicurezza integrata a supporto e in coordinamento con l’azione delle polizie locali dei Comuni che la costituiscono.
 
 Art. 39 - Tutela e valorizzazione dell'ambiente
------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 1. La Città metropolitana svolge un ruolo gestionale e decisionale sui controlli e le autorizzazioni ambientali su caccia e pesca, protezione della flora e della fauna e della loro biodiversità, gestione dei parchi e delle aree protette, organizzazione, gestione e promozione di un corretto ciclo integrato dei rifiuti, promozione e diffusione di fonti di energie rinnovabili e fotovoltaico, valorizzazione e ampliamento di aree a verde pubblico, bonifica di suoli e corsi d'acqua contaminati (rifiuti, amianto, sostanze chimiche, sostanze cancerogene, ecc.), contrasto al dissesto idrogeologico, edificazione controllata ed ecosostenibile, controllo del territorio con particolare riferimento alla salvaguardia di risorse basilari come Acqua, Suolo, Sottosuolo, Atmosfera e Biodiversità.
 
 Art. 40 - Rete scolastica ed edilizia scolastica
-------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 1. Fatte salve le funzioni di ambito locale, la Città metropolitana, anche con delega alle zone omogenee, esercita funzioni in materia di programmazione della rete scolastica, di orientamento scolastico e di diritto allo studio, di contrasto al fenomeno di “evasione scolastica”.
 
 Art. 41 - Sportello unico per le attività produttive
-----------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 1. La Città metropolitana organizza e gestisce, direttamente o tramite Comuni e Unioni di Comuni, lo Sportello unico per le attività produttive, come elemento unitario per lo svolgimento, anche in via telematica, di tutte le pratiche amministrative che riguardano l'esercizio di attività produttive.
 
 Art. 42 - Sussidiarietà verticale e delega di funzioni
-------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 1. La Città metropolitana, salva l’attività di programmazione e di indirizzo, opera di norma attraverso il conferimento, anche con delega, di funzioni amministrative alle zone omogenee o alle Unioni di Comuni.
 
@@ -164,7 +163,7 @@ Art. 42 - Sussidiarietà verticale e delega di funzioni
 3. La Città metropolitana può stipulare accordi, convenzioni e altre forme di cooperazione e collaborazione con i Comuni dell’area metropolitana o le loro Unioni e con gli enti esterni alla Città metropolitana per la realizzazione di opere pubbliche di comune interesse nonché per la gestione dei servizi mettendo a disposizione le risorse necessarie.
 
 Art. 43 - Rapporti con la Regione
----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 1. La Città metropolitana favorisce l’attivazione di strumenti di confronto con la Regione al fine di definire le reciproche aree di competenza e istituire una leale collaborazione per tematiche di interesse metropolitano.
  
@@ -173,7 +172,7 @@ Art. 43 - Rapporti con la Regione
 3. Gli accordi tra Città metropolitana e Regione Campania sono approvati dal Consiglio metropolitano a maggioranza dei suoi componenti.
 
 Art. 44 - Convenzioni
----------------------
+~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana, nell’interesse dei Comuni e delle Unioni di Comuni che aderiscano a specifiche convenzioni, può provvedere:
 
@@ -183,19 +182,19 @@ Art. 44 - Convenzioni
  d) all’assistenza legale in materia di lavoro.
  
  Art. 45 - Centrale unica di committenza
----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 1. La Città metropolitana, previa convenzione, può curare, nell’interesse dei Comuni e delle Unioni di Comuni, le funzioni di “Centrale unica di committenza” ai sensi della normativa vigente con costi contenuti nei limiti dell’effettivo rimborso spese delle sole risorse umane impiegate e assicura ai Comuni e alle Unioni di Comuni assistenza tecnico-amministrativa in materia di appalti di lavori e acquisti di beni, servizi e forniture, anche attraverso la formazione del personale, l’elaborazione e la gestione di banche dati e di servizi su piattaforma elettronica.
 
 Art. 46 - Anticorruzione e gestione unitaria dei processi amministrativi
-------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana interviene al fine di rendere omogenei i procedimenti e gli atti normativi in tema di prevenzione della corruzione e di trasparenza anche attraverso atti di indirizzo e comunque interventi che consentano una gestione unitaria dei processi amministrativi connessi con la formazione di un'apposita banca dati delle procedure di gara o comunque delle attività che abbiano dato luogo ad appalti di lavori o di servizi.
  
 2. La Città metropolitana individua, sulla base delle indicazioni fornite dall’Autorità Nazionale Anticorruzione, le linee guida e gli indirizzi a cui devono attenersi gli Organismi Indipendenti di Valutazione anche pubblicando i risultati della valutazione delle performance dei dirigenti.
 
 Art. 47 - Istituzione e funzioni del Difensore civico
------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana istituisce il Difensore civico quale garante dell’imparzialità e del buon andamento dell’azione amministrativa, anche in relazione ad Aziende speciali, Società di capitale, Enti pubblici partecipati o convenzionati con la Città metropolitana.
 
