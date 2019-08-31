@@ -1,5 +1,5 @@
-STATUTO DELLA CITTÀ METROPOLITANA DI NAPOLI
-===========================================
+STATUTO
+-------
 
 |logo_cmna| *Città Metropolitana di Napoli*
 
