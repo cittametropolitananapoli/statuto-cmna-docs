@@ -1,8 +1,8 @@
 CAPO VI 
-=======
+-------
 
 Art. 56 - Norma finale di prima attuazione
-------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 1. La norma transitoria si applica dalla data di entrata in vigore del presente Statuto fino alla data di proclamazione del Sindaco metropolitano eletto a suffragio universale.
 
