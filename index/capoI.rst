@@ -1,8 +1,8 @@
 CAPO I - PRINCIPI
-=================
+-----------------
 
 Art. 1 - Finalità della Città metropolitana
--------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana di Napoli è ente territoriale di area vasta espressione della comunità metropolitana, ai sensi dell’art. 114 della Costituzione, dotato di autonomia normativa, amministrativa e finanziaria secondo i principi fissati dalla Costituzione, dalle leggi dello Stato e dal presente Statuto. 
 
@@ -26,20 +26,20 @@ Art. 1 - Finalità della Città metropolitana
 
 
 Art. 2 - Ambito territoriale
-----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 1. Il territorio della Città metropolitana coincide col territorio dei Comuni che, sulla base della legge statale, sono in essa ricompresi.
 
 
 Art. 3 - Stemma, gonfalone e sede legale
-----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana di Napoli si dota di un proprio stemma e di un proprio gonfalone individuati dal Consiglio metropolitano che, con apposito regolamento, ne disciplina l’utilizzo.
  
 2. La sede legale della Città metropolitana di Napoli è in Napoli alla Piazza Matteotti. Possono essere istituite delegazioni presso ciascuna delle zone omogenee dotandole a tali fini di personale e mezzi.
 
 Art. 4 - Zone omogenee
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana, in vista di un più armonico, equilibrato e funzionale assetto del territorio, si struttura, nel suo ambito, in zone omogenee identificate sulla base di caratteri identitari e ragioni storiche, di contesti geomorfologici, naturalistici e paesaggistici, di relazioni funzionali e quadri economico-sociali che ne giustifichino la comune appartenenza. 
 
@@ -58,14 +58,14 @@ Art. 4 - Zone omogenee
 8. Il confronto fra le zone omogenee è il metodo per elaborare gli obiettivi comuni dell'azione metropolitana. 
 
 Art. 5 - Organizzazione delle zone omogenee
--------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Contestualmente alla costituzione delle zone omogenee sono istituite le Assemblee delle zone omogenee, con la partecipazione dei Sindaci appartenenti a ciascuna zona. L’Assemblea elegge, nel suo seno, a maggioranza assoluta dei componenti e secondo le modalità previste dal regolamento, un Coordinatore della zona omogenea. 
 
 2. Le zone omogenee esprimono pareri sugli atti del Consiglio che riguardino i rispettivi ambiti territoriali, con le modalità previste dal regolamento. 
 
 Art. 6 - Sussidiarietà orizzontale
-----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana ispira la propria azione al principio di sussidiarietà orizzontale e di collaborazione con le istanze sociali ed economiche presenti nel suo territorio.
 
@@ -74,31 +74,31 @@ Art. 6 - Sussidiarietà orizzontale
 3. La Città metropolitana promuove e riconosce il ruolo del volontariato, come elemento di valorizzazione della persona, di partecipazione democratica e di coesione sociale. 
 
 Art. 7 - Comunicazione e accesso
---------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana assicura la più adeguata informazione sulle proprie attività e l’accesso ai suoi uffici, servizi. Adegua i mezzi adottati e le modalità comunicative anche in forme differenziate, tenendo conto dei destinatari e delle caratteristiche specifiche delle sue diverse aree territoriali.
 
 Art. 8 - Libera rete telematica
--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana predispone quanto necessario per garantire l’esercizio del diritto di ciascun cittadino ad accedere alla rete internet anche attraverso la creazione di una rete aperta a servizio dell’intera area metropolitana utilizzando prioritariamente software liberi o a codice sorgente aperto (Open source).
 
 2. La Città metropolitana assicura un ampio ricorso a forme di consultazione e modalità di partecipazione in rete, promuovendo l'elaborazione e lo sviluppo delle forme di democrazia digitale. 
 
 Art. 9 - Trasparenza dell’intero processo decisorio
----------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana assicura, per la massima partecipazione e trasparenza dei procedimenti amministrativi, attraverso idoneo strumento telematico a libero accesso, la messa a disposizione di tutti gli atti, nei termini e secondo le modalità stabiliti dalla legge e dai regolamenti.
 
 2. L'azione amministrativa è governata dai principi di trasparenza, correttezza, tempestività, efficienza ed economicità. 
 
 Art. 10 - Pari opportunità
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana si impegna, salvo eventuali limiti derivanti dalla composizione dei suoi organi collegiali, ad assicurare la presenza di entrambi i sessi in una percentuale non inferiore al 30% in tutti gli organi e le strutture organizzative collegiali, ivi compresi quelli degli enti, aziende e istituzioni alle quali partecipa in via maggioritaria o che da essa dipendono.
 
 Art. 11 - Rapporti europei e internazionali
--------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana concorre al processo di integrazione europea ed assume le sue determinazioni tenendo conto delle linee a fondamento dei finanziamenti europei. 
 
@@ -107,7 +107,7 @@ Art. 11 - Rapporti europei e internazionali
 3. Collabora con le altre aree metropolitane europee promuovendo forme di coordinamento tra le Città e le aree metropolitane. A tal fine incentiva i rapporti con singole Città e comunità metropolitane, anche tramite opportuni gemellaggi e lo sviluppo di attività e iniziative di comune interesse.
 
 Art. 12 - Partecipazione ed eguaglianza
----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana sostiene e valorizza gli strumenti di partecipazione attiva anche attraverso la rappresentanza delle associazioni del territori.
  
