@@ -1,9 +1,7 @@
 STATUTO
 -------
 
-|logo_cmna| 
-
-*Città Metropolitana di Napoli*
+|logo_cmna| *Città Metropolitana di Napoli*
 
 .. highlights::  
 
