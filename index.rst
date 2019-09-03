@@ -10,7 +10,7 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
 
 :Proprietà: Città Metropolitana di Napoli
 :Publisher: Ufficio Relazioni con il Pubblico
-:Licenza: |cc-zero|
+:Licenza: |cc-by|
  
 .. toctree::
   :maxdepth: 3
@@ -27,4 +27,4 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
 .. |logo_cmna| image:: assets/images/logo_cmna.png
    :width: 0.6in
    :height: 0.79097in
-.. |cc-zero| image:: assets/images/cc-zero.png
+.. |cc-by| image:: assets/images/cc-by.png
