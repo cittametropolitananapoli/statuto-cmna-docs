@@ -1,12 +1,12 @@
-STATUTO
--------
+Regolamento degli Uffici e dei Servizi
+--------------------------------------
 
 |logo_cmna| *Città Metropolitana di Napoli*
 
 .. highlights::  
 
-Statuto adottato con deliberazione della Conferenza Metropolitana n.2 dell’11 giugno 2015 
-Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio 2015 
+Regolamento degli Uffici e dei Servizi 
+Testo approvato con 
 
 :Proprietà: Città Metropolitana di Napoli
 :Publisher: Ufficio Relazioni con il Pubblico
@@ -16,13 +16,13 @@ Testo approvato con deliberazione del Consiglio Metropolitano n. 9 del 14 maggio
   :maxdepth: 3
   :numbered:
   
-  index/preambolo.rst	
-  index/capoI.rst
-  index/capoII.rst
-  index/capoIII.rst
-  index/capoIV.rst
-  index/capoV.rst
-  index/capoVI.rst
+  index/
+  index/
+  index/
+  index/
+  index/
+  index/
+  index/
    
 .. |logo_cmna| image:: assets/images/logo_cmna.png
    :width: 0.6in
